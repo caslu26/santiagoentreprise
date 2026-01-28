@@ -233,7 +233,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const mensagemWhatsApp = `Olá! Tenho interesse no Funcionário 24h para WhatsApp.\n\nAssunto: ${ajuda}\n\nMensagem: ${mensagem}`;
 
       // Número de telefone para o WhatsApp (formato internacional)
-      const numeroWhatsApp = "5511948391523";
+      const numeroWhatsApp = "5511957809625";
 
       // Cria a URL para abrir no WhatsApp
       const urlWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(
